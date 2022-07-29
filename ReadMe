@@ -1,0 +1,12 @@
+Run this code in this format 
+
+	<< node matrix.js input.txt >>
+
+After this command automatically generate <<output.txt>> file , do it this command 
+	
+	<<cat output.txt>>
+
+if result of output.txt is a <<Test Passed>> Then expected result equal to result of solver otherwise not equal 
+
+
+in file << input.txt >> firs line is a number of rows 
